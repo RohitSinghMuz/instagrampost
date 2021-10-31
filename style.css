@@ -1,0 +1,56 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  background-color: blue;
+}
+
+.one {
+  display: flex;
+  margin: 2% 2%;
+  box-sizing: border-box;
+}
+#img34 {
+  width: 30%;
+}
+.one img {
+  width: 30%;
+  height: 80%;
+  border-radius: 100%;
+}
+.main {
+  margin: 5% 30%;
+  box-sizing: border-box;
+  width: 30%;
+  border: 1px solid black;
+}
+
+.two img {
+  width: 100%;
+  height: 29%;
+}
+#rohits {
+  padding: 3%;
+  box-sizing: border-box;
+}
+#second {
+  padding-top: 3%;
+  padding-left: 15%;
+}
+
+.three {
+  display: flex;
+}
+#threeks {
+  padding: 3%;
+}
+#fourp {
+  padding: 3%;
+}
+#fivep {
+  padding: 3%;
+}
+
+#sixp {
+  padding-top: 3%;
+  padding-left: 55%;
+}
